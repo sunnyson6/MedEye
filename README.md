@@ -1,6 +1,6 @@
 # medeye
 
-A new Flutter project.
+SE2 source code
 
 ## Getting Started
 
